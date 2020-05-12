@@ -5,8 +5,9 @@ C:\Users\danie\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\ob
 C:\Users\danie\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\obj\Debug\netcoreapp3.1\EmployeeApplicationModel.AssemblyInfo.cs
 C:\Users\danie\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\obj\Debug\netcoreapp3.1\EmployeeApplicationModel.dll
 C:\Users\danie\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\obj\Debug\netcoreapp3.1\EmployeeApplicationModel.pdb
-C:\Users\danie\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\obj\Debug\netcoreapp3.1\EmployeeApplicationModel.csprojAssemblyReference.cache
 C:\Users\danie\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\bin\Debug\netcoreapp3.1\EmployeeApplicationModel.runtimeconfig.json
 C:\Users\danie\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\bin\Debug\netcoreapp3.1\EmployeeApplicationModel.runtimeconfig.dev.json
 C:\Users\danie\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\obj\Debug\netcoreapp3.1\EmployeeApplicationModel.genruntimeconfig.cache
 C:\Users\danie\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\obj\Debug\netcoreapp3.1\EmployeeApplicationModel.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\obj\Debug\netcoreapp3.1\EmployeeApplicationModel.dll
+C:\Users\daniel\source\repos\EmployeeApplicationModel\EmployeeApplicationModel\obj\Debug\netcoreapp3.1\EmployeeApplicationModel.pdb

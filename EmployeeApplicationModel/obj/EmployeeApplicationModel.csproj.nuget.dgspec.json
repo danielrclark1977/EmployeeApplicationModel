@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\EmployeeApplicationModel.csproj": {}
+    "C:\\Users\\daniel\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\EmployeeApplicationModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\EmployeeApplicationModel.csproj": {
+    "C:\\Users\\daniel\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\EmployeeApplicationModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\EmployeeApplicationModel.csproj",
+        "projectUniqueName": "C:\\Users\\daniel\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\EmployeeApplicationModel.csproj",
         "projectName": "EmployeeApplicationModel",
-        "projectPath": "C:\\Users\\danie\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\EmployeeApplicationModel.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\obj\\",
+        "projectPath": "C:\\Users\\daniel\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\EmployeeApplicationModel.csproj",
+        "packagesPath": "C:\\Users\\daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniel\\source\\repos\\EmployeeApplicationModel\\EmployeeApplicationModel\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
